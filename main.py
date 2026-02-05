@@ -46,7 +46,7 @@ class WeddingPlannerApp:
             elif choice == "5":
                 self.check_constraints()
             elif choice == "6":
-                print("\n¡Gracias por usar el Organizador de Bodas!")
+                print("\nCerrando aplicaición")
                 sys.exit(0)
             else:
                 print("\nOpción no válida. Intente de nuevo.")
