@@ -1,0 +1,41 @@
+[
+    {
+        "wedding_id": "B002",
+        "couple_name": "Tito y Tita",
+        "date": "2026-04-02",
+        "start_time": "15:00",
+        "end_time": "18:00",
+        "num_guests": 100,
+        "num_tables": 20,
+        "tables_assigned": [
+            "B002_T01",
+            "B002_T02",
+            "B002_T03",
+            "B002_T04",
+            "B002_T05",
+            "B002_T06",
+            "B002_T07",
+            "B002_T08",
+            "B002_T09",
+            "B002_T10",
+            "B002_T11",
+            "B002_T12",
+            "B002_T13",
+            "B002_T14",
+            "B002_T15",
+            "B002_T16",
+            "B002_T17",
+            "B002_T18",
+            "B002_T19",
+            "B002_T20"
+        ],
+        "waiters_assigned": [
+            "B002_W01",
+            "B002_W02",
+            "B002_W03",
+            "B002_W04",
+            "B002_W05"
+        ],
+        "menu_type": "Premium"
+    }
+]
